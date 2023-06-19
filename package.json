@@ -29,7 +29,7 @@
     "react-typing-effect": "^2.0.2",
     "styled-components": "^4.4.1"
   },
-  "homepage": "https://blackmagicianzero.github.io/Portfolio-2020/",
+  "homepage": "https://blackmagicianzero.github.io/Port_final/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
